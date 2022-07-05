@@ -4,8 +4,6 @@ title: Neat Starter
 path: home
 ---
 
-## AB
-
    <!-- <div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
  <h1>
     Welcome to
