@@ -6,10 +6,6 @@ const htmlmin = require("html-minifier");
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
-  
-  return {
-    markdownTemplateEngine: "njk"
-  };
 
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
