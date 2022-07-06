@@ -40,6 +40,16 @@ body {
     margin-bottom: 0.5em;
 }
 
+.hero h2 {
+    /* Text styles */
+    font-size: 3em;
+    
+    /* Margins */
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+
 .hero .btn {
     /* Positioning and sizing */
     display: block;
