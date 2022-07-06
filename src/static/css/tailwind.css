@@ -24,7 +24,7 @@ body {
     color: white; /* ADD THIS LINE */
     
     /* Background styles */
-    background-image: url(home_cn.jpg);
+    background-image: url(../img/home_cn.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
