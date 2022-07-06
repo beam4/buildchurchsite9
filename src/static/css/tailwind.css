@@ -26,7 +26,7 @@ body {
     /* Background styles */
     background-image: url(../img/home_cn.jpg);
     background-size: cover;
-    background-position: 100px center;
+    background-position: center 100px;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
