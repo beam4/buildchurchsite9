@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Homepage Starter
+layout: homepage
+title: Neaty Starter
 path: home
 ---
 A
